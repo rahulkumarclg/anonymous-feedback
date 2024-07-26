@@ -1,0 +1,1 @@
+D:\Company-Stuff\RiseIn\four_smart_contract\anonymous-feedback\target\wasm32-unknown-unknown\release\hello_world.wasm: D:\Company-Stuff\RiseIn\four_smart_contract\anonymous-feedback\contracts\hello_world\src\lib.rs
